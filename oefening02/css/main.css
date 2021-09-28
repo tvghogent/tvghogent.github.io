@@ -1,0 +1,39 @@
+body{
+background-color: pink;
+font-family:sans-serif;
+
+}
+
+
+h1,h2{
+    background-color: aqua;
+    width: 50%;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    
+}
+
+picture{
+
+display: flex;
+justify-content: center;
+margin: 5em;
+
+}
+
+img{
+
+    border-radius: 100%;
+    width: 30%;
+
+}
+
+
+p{
+    margin: auto;
+    width:50%;
+    color: red;
+    text-align: center;
+
+}
